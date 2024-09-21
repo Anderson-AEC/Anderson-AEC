@@ -23,5 +23,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia, hardware e recupera�
 
 ## 📊 Minhas Estatísticas do GitHub
 ![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=Anderson-AEC&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-AEC&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anderson-AEC&theme=github)
+
+
 
 
