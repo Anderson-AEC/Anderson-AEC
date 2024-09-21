@@ -16,11 +16,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia, hardware e recupera�
 - GitHub: [github.com/Anderson-AEC](https://github.com/Anderson-AEC)
 - LinkedIn: [Anderson Gomes](https://www.linkedin.com/in/anderson-da-silva-gomes)
 
-## 🐼 Animação de Panda
-Aqui está uma animação divertida de panda para deixar o seu README mais alegre!
-
-![Panda GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
 ## 🔥 Tecnologias que estou aprendendo
 - Microsoft Azure
 - Máquinas Virtuais
